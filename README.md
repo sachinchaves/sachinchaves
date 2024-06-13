@@ -43,6 +43,8 @@ I am an experienced web developer with over seven years of expertise in building
 ### Other Expertise
 - Knowledge of SEO best practices
 - GDPR knowledge
+- Google Analyitcs
+- Google Optimize
 - Web technologies, standards, performance optimization, and accessibility
 
 ### Project & Time Management
