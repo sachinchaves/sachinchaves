@@ -1,4 +1,4 @@
-## Hi there, I'm Sachin Chaves 👋
+## Hi there, I'm Sachin 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](linkedin.com/in/sachin-c-33819510a/) [![Portfolio](https://img.shields.io/badge/Portfolio-black)](https://portfolio-sachinchaves.vercel.app/)
 
