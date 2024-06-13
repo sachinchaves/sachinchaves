@@ -8,7 +8,7 @@
 
 ## Summary
 
-I am an experienced web developer with over seven years of expertise in building dynamic, responsive, and high-performance web applications. Proficient in a wide range of web technologies and frameworks, I thrive on creating innovative solutions that drive user engagement and satisfaction. I am passionate about continuous learning, collaboration, and contributing to open-source projects.
+I am an experienced web developer with seven years of expertise in building dynamic, responsive, and high-performance web applications. Proficient in a wide range of web technologies and frameworks, I thrive on creating innovative solutions that drive user engagement and satisfaction. I am passionate about continuous learning, collaboration, and contributing to open-source projects.
 
 ---
 
